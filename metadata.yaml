@@ -1,0 +1,29 @@
+_repo: De-vandrande-dj-knarne_9827
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rydberg, Viktor
+    aliases:
+    - Rydberg, Victor
+    - Rydberg, V. (Viktor)
+    - Rydberg, Abraham Viktor
+    birthdate: 1828
+    deathdate: 1895
+    gutenberg_agent_id: '3156'
+    url: http://www.gutenberg.org/2009/agents/3156
+    wikipedia: http://en.wikipedia.org/wiki/Viktor_Rydberg
+description: ''
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9827'
+language: sv
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Fiction'
+- GITenberg
+title: De vandrande djäknarne
+url: http://www.gutenberg.org/ebooks/9827
